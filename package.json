@@ -1,0 +1,25 @@
+{
+  "name": "testescypress",
+  "version": "1.0.0",
+  "description": "primeiro projeto com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineSiqueira/automated-tests-cypress.git"
+  },
+  "keywords": [
+    "tests-cypress"
+  ],
+  "author": "CarolineSiqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolineSiqueira/automated-tests-cypress/issues"
+  },
+  "homepage": "https://github.com/CarolineSiqueira/automated-tests-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.5.0"
+  }
+}
